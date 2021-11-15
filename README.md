@@ -1,4 +1,4 @@
-# Improve Tesseract OCR's
+# Finetune Tesseract OCR on a Custom Dataset
 
 Docker Implementation to train Tesseract v. 4
 
